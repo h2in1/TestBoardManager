@@ -1,1 +1,1 @@
-IAMAMAKER의 브릭보드 보드 매니져 관련 파일입니다.
+IAMAMAKER의 AVR 보드 매니져 관련 파일입니다.
