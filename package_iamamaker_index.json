@@ -19,8 +19,8 @@
                     },
                     "url": "https://h2in1.github.io/TestBoardManager/boards/iamamaker_test_platform.zip",
                     "archiveFileName": "iamamaker_test_platform.zip",
-                    "checksum": "SHA-256:D6F4318DCFDCBA3D88DAC2CA44CA877FDB09277B37209825B33E923BC0BD0973",
-                    "size": "46310",
+                    "checksum": "SHA-256:889FA1D3145FB6E66246DB10958771E1A709A6ACDA2A8227AEFAAA2E6646B228",
+                    "size": "46359",
                     "boards": [
                         {
                             "name": "BrickBoard M02"
