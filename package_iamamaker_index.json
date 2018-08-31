@@ -1,0 +1,40 @@
+{
+    "packages": [
+
+        {
+            "name": "iamamaker",
+            "maintainer": "IAMAMAKER Electronics",
+            "websiteURL": "http://www.iamamaker.kr",
+            "email": "contact@iamamaker.kr",
+
+            "platforms": [
+
+                {
+                    "name": "BrickBoard (AVR)",
+                    "architecture": "avr",
+                    "version": "2.0.0",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://www.iamamaker.kr/ko/tutorials/package_install_board_manager/"
+                    },
+                    "url": "https://h2in1.github.io/TestBoardManager/boards/iamamaker_test_platform.zip",
+                    "archiveFileName": "iamamaker_test_platform.zip",
+                    "checksum": "SHA-256:DAB87A2AB379DE39D738982F2120596B74760FC5A61A5A42C4FDAEA2CC5FC5F1",
+                    "size": "45260",
+                    "boards": [
+                        {
+                            "name": "BrickBoard M02"
+                        }
+                    ],
+                    "toolsDependencies": []
+                }
+
+            ],
+
+            "tools": [
+
+            ]
+        }
+
+    ]
+}
