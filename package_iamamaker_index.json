@@ -19,8 +19,8 @@
                     },
                     "url": "https://h2in1.github.io/TestBoardManager/boards/iamamaker-avr-v2.0.0.zip",
                     "archiveFileName": "iamamaker-avr-v2.0.0.zip",
-                    "checksum": "SHA-256:5509A5DA3CD9B9BCFD5797A2152E654ED3EA5C2942626E59B3B2154BDFD6FCAE",
-                    "size": "18511",
+                    "checksum": "SHA-256:D5694FFC635334529D396DB26F0E06BB2BE0C25B54C2B14098D70BE84A137F9B",
+                    "size": "62319",
                     "boards": [
                         {"name": "BrickBoard M02"}
                     ],
