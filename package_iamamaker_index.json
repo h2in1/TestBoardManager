@@ -2,7 +2,7 @@
     "packages": [
 
         {
-            "name": "iamamaker",
+            "name": "iamamaker-m02",
             "maintainer": "IAMAMAKER Electronics",
             "websiteURL": "http://www.iamamaker.kr",
             "email": "contact@iamamaker.kr",
@@ -10,7 +10,7 @@
             "platforms": [
 
                 {
-                    "name": "IAMAMAKER's Boards (AVR)",
+                    "name": "IAMAMAKER's BrickBoards (AVR)",
                     "architecture": "avr",
                     "version": "2.0.0",
                     "category": "Contributed",
@@ -19,13 +19,10 @@
                     },
                     "url": "https://h2in1.github.io/TestBoardManager/boards/iamamaker-avr-v2.0.0.zip",
                     "archiveFileName": "iamamaker-avr-v2.0.0.zip",
-                    "checksum": "SHA-256:24F3C54D2554ABBBB6F16C9531AD17839B41F7CE76EA25EA053E69BC4D20E117",
-                    "size": "24532",
+                    "checksum": "SHA-256:5509A5DA3CD9B9BCFD5797A2152E654ED3EA5C2942626E59B3B2154BDFD6FCAE",
+                    "size": "18511",
                     "boards": [
-                        {"name": "BrickBoard M01"},
-                        {"name": "BrickBoard M02"},
-                        {"name": "MoMoBoard R1"}
-
+                        {"name": "BrickBoard M02"}
                     ],
                     "toolsDependencies": []
                 }
