@@ -26,18 +26,7 @@
                             "name": "BrickBoard M01"
                         }
                     ],
-                    "toolsDependencies": [
-                        {
-                            "packager": "arduino",
-                            "name": "avr-gcc",
-                            "version": "4.8.1-arduino5"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "avrdude",
-                            "version": "6.0.1-arduino5"
-                        }
-                    ]
+                    "toolsDependencies": []
                 },
 
                 {
@@ -57,18 +46,7 @@
                             "name": "BrickBoard M01"
                         }
                     ],
-                    "toolsDependencies": [
-                        {
-                            "packager": "arduino",
-                            "name": "avr-gcc",
-                            "version": "4.8.1-arduino5"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "avrdude",
-                            "version": "6.0.1-arduino5"
-                        }
-                    ]
+                    "toolsDependencies": []
                 },
 
                 {
@@ -81,8 +59,8 @@
                     },
                     "url": "https://h2in1.github.io/TestBoardManager/boards/iamamaker-brickboard-v2.0.0.zip",
                     "archiveFileName": "iamamaker-brickboard-v2.0.0.zip",
-                    "checksum": "SHA-256:912F711559AC3BF39872EBA1C0621D41EE8298AC5436D45270C72909C56E38C3",
-                    "size": "155096",
+                    "checksum": "SHA-256:6B3A8AE7FEFEA9E56BE6BE359D54FC38610EFE6651D266B3D58DCEBDE00EA832",
+                    "size": "189966",
                     "boards": [
                         {"name": "BrickBoard M01"},
                         {"name": "BrickBoard M02"}
