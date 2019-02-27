@@ -79,10 +79,10 @@
                     "help": {
                         "online": "http://www.iamamaker.kr/ko/tutorials/package_install_board_manager/"
                     },
-                    "url": "https://h2in1.github.io/TestBoardManager/boards/iamamaker-brickboard-v2.0.1.zip",
-                    "archiveFileName": "iamamaker-brickboard-v2.0.1.zip",
-                    "checksum": "SHA-256:8B320F6F2799F87A33AC2AFC110BD67F58F83CC7AD3E6C4F47CE96B655BF6134",
-                    "size": "191797",
+                    "url": "https://h2in1.github.io/TestBoardManager/boards/iamamaker-brickboard-v2.0.0.zip",
+                    "archiveFileName": "iamamaker-brickboard-v2.0.0.zip",
+                    "checksum": "SHA-256:912F711559AC3BF39872EBA1C0621D41EE8298AC5436D45270C72909C56E38C3",
+                    "size": "155096",
                     "boards": [
                         {"name": "BrickBoard M01"},
                         {"name": "BrickBoard M02"}
