@@ -68,6 +68,25 @@
                     "toolsDependencies": []
                 }
 
+                {
+                    "name": "BrickBoards (AVR)",
+                    "architecture": "avr",
+                    "version": "2.0.0",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://www.iamamaker.kr/ko/tutorials/package_install_board_manager/"
+                    },
+                    "url": "https://h2in1.github.io/TestBoardManager/boards/iamamaker-brickboard-v2.0.1.zip",
+                    "archiveFileName": "iamamaker-brickboard-v2.0.0.zip",
+                    "checksum": "SHA-256:7EFD742A0B14DC1C7542FB5BDBB2E9619ED4024205E766AD4CAB45423EDF8F30",
+                    "size": "216475",
+                    "boards": [
+                        {"name": "BrickBoard M01"},
+                        {"name": "BrickBoard M02"}
+                    ],
+                    "toolsDependencies": []
+                }
+
             ],
 
             "tools": [
