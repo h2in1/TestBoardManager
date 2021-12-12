@@ -1,0 +1,40 @@
+{
+    "packages": [
+
+        {
+            "name": "iamamaker",
+            "maintainer": "IAMAMAKER Electronics",
+            "websiteURL": "http://www.iamamaker.kr",
+            "email": "contact@iamamaker.kr",
+
+            "platforms": [
+
+                {
+                    "name": "SmartBoard (AVR)",
+                    "architecture": "avr",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://www.iamamaker.kr/ko/tutorials/package_install_board_manager/"
+                    },
+                    "url": "https://h2in1.github.io/TestBoardManager/boards/iamamaker-smartboard-v1.0.0.zip",
+                    "archiveFileName": "iamamaker-smartboard-v1.0.0.zip",
+                    "checksum": "SHA-256:b5198bff3e713c8a9efdf289fbd9518d48d0e4a8a9e55982dddb99a5f4c4dbf1",
+                    "size": "71089",
+                    "boards": [
+                        {
+                            "name": "SmartBoard M101"
+                        }
+                    ],
+                    "toolsDependencies": []
+                }
+
+            ],
+
+            "tools": [
+
+            ]
+        }
+
+    ]
+}
